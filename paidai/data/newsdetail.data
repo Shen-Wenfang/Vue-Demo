@@ -1,0 +1,49 @@
+[
+    {
+     "id":1,
+	"title":"一位电商数据分析师的经验总结~",
+	"time":"1480854958804",
+    "name":"猫儿|数据分析",
+     "read":"5909",
+     "good":"15",
+    "imgUrl":"https://ss3.baidu.com/9fo3dSag_xI4khGko9WTAnF6hhy/image/h%3D220/sign=37cdbd919858d109dbe3aeb0e159ccd0/5366d0160924ab187db23fd83ffae6cd7a890bbd.jpg",
+      "content": "<p style='text-indent: 2em;'><span style='font-size: 14px;'>08年毕业，不知不觉的混进了电子商务行业，又不知不觉的做了三年数据分析，恰好又赶上了互联网电子商务行业发展最快的几年，也算是不错吧，毕竟感觉前途还是很光明的。三年来，可以说跟很多同事学到了不少东西，需要感谢的人很多，他们无私的教给了我很多东西。</span></p><p style='text-indent: 2em;'><span style='font-size: 14px;'>就数据分析职业来说，个人感觉这对互联网公司来说是非常重要的，也是确实能够带来实际效果的东西。比如说利用数据分析做会员的细分以进行精准化营销；利用数据分析来发现现有的不足，以作改进，让顾客有更好的购物体验；利用CRM系统来管理会员的生命周期，提高会员的忠诚度，避免会员流失；利用会员的购买数据，挖掘会员的潜在需求，提供销售，扩大影响力等等。</span></p><p style='text-indent: 2em;'><span style='font-size: 14px;'>最开始进公司的时候是在运营部，主要是负责运营报表的数据，当时的系统还很差，提取数据很困难，做报表也很难，都是东拼西凑一些数据，然后做成PPT，记得当时主要的数据就是销售额、订单量、毛利额、客单价、每单价、库存等一些特别基础的数据，然后用这些数据作出一些图表来。在这个阶段基本上就是做一些数据的提取工作，Excel的技巧倒是学到了不少，算是数据分析入门了吧。</span></p><p style='text-indent: 2em;'><span style='font-size: 14px;'>后来公司上了数据仓库，里面就有了大量的原始数据，提取数据非常方便了，而且维度也多，可以按照自己的想法随意的组合分析，那个阶段主要就是针对会员购物行为的分析，开始接触数据建模，算法等一些比较难的东西，也是学到东西最多的时候。记得当时做了很多分析报告，每周还要给总裁办汇报这些报告，下面详细说一下当时使用的一些主要的模型及算法：</span></p>"
+    },
+    {
+     "id":2,
+	"title":"做电商的八大“死”法~",
+    "time":"1480854958804",
+    "name":"EC麦田",
+     "read":"3076",
+     "good":"22",
+     "imgUrl":"http://www.paidai.com/uploadpath/2014-12/52461419065447.jpg",
+     "content": "<p style='text-indent: 2em;'><strong><span style='font-size: 14px;'>1、RFM模型</span></strong></p><p style='text-indent: 2em;'><span style='font-size: 14px;'>模型定义：在众多的客户关系管理的分析模式中，RFM模型是被广泛提到的。RFM模型是衡量客户价值和客户创利能力的重要工具和手段。该机械模型通过一个客户的近期购买行为、购买的总体频率以及花了多少钱三项指标来描述该客户的价值状况。在RFM模式中，R(Recency)表示客户最近一次购买的时间有多远，F(Frequency)表示客户在最近一段时间内购买的次数，M(Monetary)表示客户在最近一段时间内购买的金额。一般的分析型CRM着重在对于客户贡献度的分析，RFM则强调以客户的行为来区分客户。利用RFM分析，我们可以做以下几件事情：</span></p><p style='text-indent: 2em;'><span style='font-size: 14px;'>⑴建立会员金字塔，区分各个级别的会员，如高级会员、中级会员、低级会员，然后针对不同级别的会员施行不同的营销策略，制定不同的营销活动</span></p><p style='text-indent: 2em;'><span style='font-size: 14px;'>⑵发现流失及休眠会员，通过对流失及休眠会员的及时发现，采取营销活动，激活这些会员。</span></p><p style='text-indent: 2em;'><span style='font-size: 14px;'>⑶在短信、EDM促销中，可以利用模型，选取最优会员。</span></p><pstyle='text-indent: 2em;'><span style='font-size: 14px;'>⑷维系老客户，提高会员的忠诚度。</span></p><p style='text-indent: 2em;'><span style='font-size: 14px;'>使用方法：可以给三个变量不同的权重或按一定的规则进行分组，然后组合使用，即可分出很多不同级别的会员。</span></p>"  
+    },{
+     "id":3,
+	"title":"午间快讯:淘宝联合知识产权局打假外观侵权严重 殡葬业试水电商网上卖墓位~",
+    "time":"1480854958804",
+    "name":"派代商道",
+     "read":"878",
+     "good":"4",
+    "imgUrl":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1513660698888&di=e553833ec52f702d13b25bd3ccbe4784&imgtype=jpg&src=http%3A%2F%2Fs9.sinaimg.cn%2Fbmiddle%2F4b747733c1563219cb388",
+     "content": "<p style='text-indent: 2em;'><strong><span style='font-size: 14px;'>2、关联分析</span></strong></p><p style='text-indent: 2em;'><span style='font-size: 14px;'>关联分析最原始的案例来自于沃尔玛的“啤酒与尿布”。通俗意义上讲，就是只买了A商品的人，又有很多人买了B商品，那么我们就可以认为A、B两个商品的关联性比较高。很多数据挖掘工具都有关联挖掘，主要使用的算法是Apriori算法，在计算的过程中会主要考察项集、置信度、相关性这三个结果数据，以最终确定商品之间的相关性。除了Apriori算法外，还有许多其他的关联分析的算法，基本上也都是从Apriori发展而来，比如FPgrowth。本人从几年的数据分析经验感觉，关联分析在零售业中并不太实用，挖掘出来的关联度比较高的商品一般都是同类商品或者同品牌的商品，像“啤酒与尿布”这种，很少能够有。</span><p style='text-indent: 2em;'><span style='font-size: 14px;'>后来公司上了数据仓库，里面就有了大量的原始数据，提取数据非常方便了，而且维度也多，可以按照自己的想法随意的组合分析，那个阶段主要就是针对会员购物行为的分析，开始接触数据建模，算法等一些比较难的东西，也是学到东西最多的时候。记得当时做了很多分析报告，每周还要给总裁办汇报这些报告。</span></p>"
+    },{
+     "id":4,
+	"title":"你所不知道的雕爷牛腩~",
+    "time":"1480854958804",
+    "name":"丁辰灵",
+     "read":"89",
+     "good":"5",
+     "imgUrl":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1513660836177&di=9e5eff4bd2fc80b0e9d4a01d0bd30679&imgtype=0&src=http%3A%2F%2Fpic.baike.soso.com%2Fp%2F20110821%2F20110821222446-273808267.jpg",
+     "content": "<p style='text-indent: 2em;'><span style='font-size: 14px;'>08年毕业，不知不觉的混进了电子商务行业，又不知不觉的做了三年数据分析，恰好又赶上了互联网电子商务行业发展最快的几年，也算是不错吧，毕竟感觉前途还是很光明的。三年来，可以说跟很多同事学到了不少东西，需要感谢的人很多，他们无私的教给了我很多东西。</span></p><p style='text-indent: 2em;'><span style='font-size: 14px;'>就数据分析职业来说，个人感觉这对互联网公司来说是非常重要的，也是确实能够带来实际效果的东西。比如说利用数据分析做会员的细分以进行精准化营销；利用数据分析来发现现有的不足，以作改进，让顾客有更好的购物体验；利用CRM系统来管理会员的生命周期，提高会员的忠诚度，避免会员流失；利用会员的购买数据，挖掘会员的潜在需求，提供销售，扩大影响力等等。</span></p><p style='text-indent: 2em;'><span style='font-size: 14px;'>最开始进公司的时候是在运营部，主要是负责运营报表的数据，当时的系统还很差，提取数据很困难，做报表也很难，都是东拼西凑一些数据，然后做成PPT，记得当时主要的数据就是销售额、订单量、毛利额、客单价、每单价、库存等一些特别基础的数据，然后用这些数据作出一些图表来。在这个阶段基本上就是做一些数据的提取工作，Excel的技巧倒是学到了不少，算是数据分析入门了吧。</span></p><p style='text-indent: 2em;'><span style='font-size: 14px;'>后来公司上了数据仓库，里面就有了大量的原始数据，提取数据非常方便了，而且维度也多，可以按照自己的想法随意的组合分析，那个阶段主要就是针对会员购物行为的分析，开始接触数据建模，算法等一些比较难的东西，也是学到东西最多的时候。记得当时做了很多分析报告，每周还要给总裁办汇报这些报告。</span></p>"
+    },{
+     "id":5,
+	"title":"刘强东和马云们的“乡愁”~~",
+    "time":"1480854958804",
+    "name":"老醋花生|百度百家 ",
+     "read":"493",
+     "good":"36",
+     "imgUrl":"https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=3116733735,2893538887&fm=27&gp=0.jpg",
+     "content": "<p style='text-indent: 2em;'><strong><span style='font-size: 14px;'>1、RFM模型</span></strong></p><p style='text-indent: 2em;'><span style='font-size: 14px;'>模型定义：在众多的客户关系管理的分析模式中，RFM模型是被广泛提到的。RFM模型是衡量客户价值和客户创利能力的重要工具和手段。该机械模型通过一个客户的近期购买行为、购买的总体频率以及花了多少钱三项指标来描述该客户的价值状况。在RFM模式中，R(Recency)表示客户最近一次购买的时间有多远，F(Frequency)表示客户在最近一段时间内购买的次数，M(Monetary)表示客户在最近一段时间内购买的金额。一般的分析型CRM着重在对于客户贡献度的分析，RFM则强调以客户的行为来区分客户。利用RFM分析，我们可以做以下几件事情：</span></p><p style='text-indent: 2em;'><span style='font-size: 14px;'>⑴建立会员金字塔，区分各个级别的会员，如高级会员、中级会员、低级会员，然后针对不同级别的会员施行不同的营销策略，制定不同的营销活动</span></p><p style='text-indent: 2em;'><span style='font-size: 14px;'>⑵发现流失及休眠会员，通过对流失及休眠会员的及时发现，采取营销活动，激活这些会员。</span></p><p style='text-indent: 2em;'><span style='font-size: 14px;'>⑶在短信、EDM促销中，可以利用模型，选取最优会员。</span></p><pstyle='text-indent: 2em;'><span style='font-size: 14px;'>⑷维系老客户，提高会员的忠诚度。</span></p><p style='text-indent: 2em;'><span style='font-size: 14px;'>使用方法：可以给三个变量不同的权重或按一定的规则进行分组，然后组合使用，即可分出很多不同级别的会员。</span></p>" 
+    }
+]
