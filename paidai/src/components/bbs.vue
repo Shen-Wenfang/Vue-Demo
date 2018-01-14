@@ -63,7 +63,7 @@ export default {
             console.log('bbs.data error');
         })
   },
-  methods:{
+  methods:{  //方法
     count(index){
         this.bbslist[index].good++
     }

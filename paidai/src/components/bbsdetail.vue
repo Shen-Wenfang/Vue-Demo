@@ -111,7 +111,7 @@ export default {
           this.replay = '';  
         }
 	},
-	computed:mapGetters(['showName']) //登录才有用户名s
+	computed:mapGetters(['showName']) //登录才有用户名
 };
 </script>
 
